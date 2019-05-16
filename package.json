@@ -1,0 +1,15 @@
+{
+  "name": "my-new-project",
+  "version": "1.0.0",
+  "description": "My New Project description.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "parcel ./index.html",
+    "dist": "parcel build ./index.html"
+  },
+  "author": "Your Name <you@example.com>",
+  "license": "BSD-2-Clause",
+  "dependencies": {
+    "parcel-bundler": "^1.12.3"
+  }
+}
